@@ -14,6 +14,9 @@ This code has built-in some data mentioned in our paper[<sup>1</sup>](#refer-id)
 
 Additionally, all the datasets used in this paper can be downloaded from the url: https://zenodo.org/records/14506435. 
 
+## Contact details
+If you have any questions, please contact WeifengYang.Ywf@gmail.com and minwenwen@ynu.edu.cn
+
 ## Reference
 <div id="refer-id"></div>
 [1] Graph regularized sparse nonnegative Tucker decomposition with ℓ0-constraints for unsupervised learning. 
