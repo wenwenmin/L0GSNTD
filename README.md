@@ -5,7 +5,7 @@ our method incorporates the graph regularization into NTD to encode the manifold
 This package contains code for the $\ell_0$-GSNTD problem in the paper[<sup>1</sup>](#refer-id). 
 
 
-## Matlab code
+## How to run our code (Running demo)
 A toy example explains how to use the these function. For "L0GSNTD", before running it, first add the toolbox 'tensortoolbox'[<sup>2</sup>](#refer-id) (www.tensortoolbox.org) to the running path of matlab, and then run the function '[main_Run_me.m](L0GSNTD/main_Run_me.m)'. 
 
 
